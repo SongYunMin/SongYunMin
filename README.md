@@ -1,12 +1,12 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **Back-End**
-- 🌱 I’m currently learning **Back-End Framework**
-- 👯 I’m looking to collaborate on **Open Learning**
-- 🤔 I’m looking for help with **Advice from Developer Senior**
-- 💬 Ask me about **How to Have Passion**
-- 📫 How to reach me:  {<br>
+- 🔭 **백엔드** 주니어 개발자입니다.
+- 🌱 현재는 **Node.js**를 주로 사용하고 있습니다.
+- 👯 **공개적으로 학습**하는 것을 지향합니다.
+- 🤔 **성장**에 대해 관심이 많습니다.
+- 💬 누군가 **기술 질문**을 한다면 신중하게 고민합니다.
+- 📫 저에 대해 궁금하시다면 :{  {<br>
       **Velog** : [Velog Link(Click)](https://velog.io/@sms8377), <br>
       **E-Mail** : thd930308@naver.com, <br>
       **Phone** : 010-7607-8704 <br>
   }<br>
-- ⚡ Fun fact: ...
+- ⚡ **개발**을 물어보시면 당황할수도 있습니다.
