@@ -4,8 +4,5 @@
 - 👯 **공개적으로 학습**하는 것을 지향합니다.
 - 🤔 **성장**에 대해 관심이 많습니다.
 - 💬 누군가 **기술 질문**을 한다면 신중하게 고민합니다.
-- 📫 저에 대해 궁금하시다면 :  {<br>
-      **Velog** : [Velog Link(Click)](https://velog.io/@sms8377), <br>
-      **E-Mail** : thd930308@naver.com, <br>
-      **Phone** : 010-7607-8704 <br>
-  }<br>
+- 📫 **Velog**: [Velog Link(Click)](https://velog.io/@sms8377), <br>
+ 
