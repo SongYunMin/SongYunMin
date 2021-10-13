@@ -1,6 +1,4 @@
 ### Hi there 👋
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
 <p align="center">
 <a href="[]" target="_blank"><img src="https://img.shields.io/badge/Node.JS-[#339933]?style=flat-square&logo=Node.js&logoColor=white"/></a>
 
