@@ -7,4 +7,4 @@
 - 💬 누군가 **기술 질문**을 한다면 신중하게 고민합니다.
 - 📫 **Velog**: [Velog Link(Click)](https://velog.io/@sms8377), <br>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thd930308&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongYunMin&show_icons=true&theme=radical)
